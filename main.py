@@ -10,7 +10,7 @@ import time
 import people_also_ask as answer
 import AppOpener as app
 avoice=1
-aname="ALEXA"
+aname="alexa"
 call=''
 work=''
 
