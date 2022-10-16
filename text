@@ -1,0 +1,15 @@
+if(call==aname):
+            work=command()
+        else:
+            print("--------")
+            continue
+
+        if(work==''):
+            #play(r"C:\Users\MAYANK JONWAL\Music\stuck.mp3")
+            continue
+        elif(call==aname and work!=""):
+            #play(r"C:\Users\MAYANK JONWAL\Music\end.mp3")
+            task(work)
+        else:
+            print("---------")
+            continue
